@@ -115,6 +115,17 @@ ul#navegacao a:hover{
     padding: 15px 0;
 }
 
+h2{
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0;
+}
+
+p{
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
 #area-lateral{
     float: right;
     width: 50%;
@@ -125,4 +136,32 @@ ul#navegacao a:hover{
 .conteudo{
     margin: 0 auto;
     width: 90%;
+}
+
+#beneficios li{
+    padding: 8px;
+    border-bottom: 1px solid #f3efcb;
+    height: 6em;
+}
+
+#beneficios li a img{
+    float: left;
+    margin-right: 8px;
+}
+
+#beneficios li a p{
+    font-size: 0.8em;
+    color: #000;
+}
+
+#beneficios li h3{
+    font-size: 1.1em;
+    color: #615b2d;
+    padding: 5px 0;
+    background: url(../images/ornamento.png) no-repeat center right;
+}
+
+#beneficios li:hover{
+    background-color: #f6fed6;
+    cursor: pointer;
 }
