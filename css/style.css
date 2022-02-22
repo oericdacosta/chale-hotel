@@ -77,3 +77,7 @@ a.reserva{
 .clear{
     clear: both;
 }
+
+#menu{
+    margin-top: 15px;
+}
