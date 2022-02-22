@@ -1,3 +1,9 @@
 #container{
     background-color: #ede9cc;
 }
+
+#topo{
+    background-color: #dbc87d;
+    height: 15.4em;
+    min-height: 250px;
+}
