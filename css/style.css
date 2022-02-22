@@ -165,3 +165,10 @@ p{
     background-color: #f6fed6;
     cursor: pointer;
 }
+
+#rodape{
+    clear: both;
+    padding: 16px;
+    background: #FFF url(../images/bg-rodape.png) repeat-x top;
+    color: #7d7640;
+}
