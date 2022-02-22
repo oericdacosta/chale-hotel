@@ -107,3 +107,13 @@ ul#navegacao a:hover{
     height: 164px;
     float: right;
 }
+
+#area-principal{
+    float: left;
+    width: 50%;
+}
+
+#area-lateral{
+    float: right;
+    width: 50%;
+}
