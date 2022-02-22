@@ -48,3 +48,11 @@
     margin-right: 15px;
     padding-top: 15px;
 }
+
+#menu-locais{
+    border-bottom: 1px solid #B5AB56;
+    border-top: 1px solid #B5AB56;
+    padding: 5px 0;
+    font-size: 0.7em;
+    color: #8b8448;
+}
