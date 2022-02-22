@@ -1,5 +1,8 @@
 #container{
     background-color: #ede9cc;
+    margin: 0 auto;
+    min-width: 740px;
+    max-width: 1180px;
 }
 
 #topo{
@@ -16,6 +19,11 @@
     background: url(../images/topo-imagem-principal.png) no-repeat;
     width: 100%;
     height: 250px;
+    z-index: 1;
+}
+
+.logo a{
+
 }
 
 #area-menu{
@@ -25,4 +33,5 @@
     background: url(../images/topo-imagem-lateral.png) no-repeat;
     width: 450px;
     height: 250px;
+    z-index: 2;
 }
